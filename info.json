@@ -1,0 +1,49 @@
+[
+  {
+    "id": 0,
+    "heading": "Artificial Intelligence",
+    "image": "AI.webp",
+    "heading2": "Artificial Intelligence deployment: Risky or sustainable?",
+    "info": "Artificial Intelligence is based on the concept that human intelligence can be defined in a way that a machine can be programmed to think like a human, mimic their actions and execute tasks. Currently, AI is used across multiple industries, enhancing efficiency in the field and reducing the cost. ",
+    "info2": "As technology advances the capabilities of Artificial Intelligence are constantly being redefined. Though giving technology such capabilities also comes with its risks. It presents security threats, with the possibility that the machines could be weaponized or evolve beyond human's control.",
+    "info3": "Artificial Intelligence deployment has become a controversial topic, as it comes with as many advantages as it does risks. Scientists and governments must consider these, while also bearing in mind other aspects like reglamentation and sustainability. As well as trying to answer the question: To what extent is it worth it?"
+  },
+
+  {
+    "id": 1,
+    "heading": "Post-Pandemic Refugee Waves",
+    "image": "Pandemic.webp",
+    "heading2": "The impact of the COVID-19 pandemic on refugees and their allocation.",
+    "info": "Every year millions of people worldwide are forced to flee their homes as a result of persecution, military conflict, or natural disaster and every year the number of refugees increases. As a result of the ongoing conflicts, the refugee crisis is growing exponentially and ensuring the safety of these people is increasingly more difficult.",
+    "info2": "With the world still dealing with the repercussions of the COVID-19 pandemic, the flow of refugees has become not only a challenge but a risk to the global economy. In 2021 the number of displaced people was 89.3 million, and this number has surpassed 100 million due to the Ukraine war. These refugees are struggling to find where to go, as many countries are not capable or willing of accepting displaced people in times of recovery.",
+    "info3": "Now governments around the world are presented with the challenge of allocating refugees. While trying to find these people a new home, countries are also dealing with the aftermath of the pandemic and its economic consequences."
+  },
+  {
+    "id": 2,
+    "heading": "Tariffs on International Trade",
+    "image": "International_Trade.webp",
+    "heading2": "Managing a sustainable balance between national and imported goods & services.",
+    "info": "International trade increases the number of goods that domestic consumers can choose from, decreases the cost of those goods through increased competition, and allows domestic industries to ship their products abroad. While all of these effects seem beneficial, it has been argued that free trade isn't beneficial to all parties, in all scenarios.",
+    "info2": "Tariffs are a type of tax imposed on imports, leveraged by governments around the world in order to protect local industries with a particular interest at stake, or even retaliate in some scenarios.",
+    "info3": "Although free trade benefits consumers through increased choice and reduced prices, there is a delicate balance to be made between the pursuit of efficiencies and the government's need to ensure low unemployment through these sort of tactics. Where to find that middle point?"
+  },
+  {
+    "id": 3,
+    "heading": "The Berlin Blockade",
+    "image": "Berlin_Blockade.webp",
+    "heading2": "Marking the beginning of the Cold War during its first crisis in 1948.",
+    "info1": "After the end of World War II, the victorious countries divided the defeated Germany's territory in four occupation zones. Berlin, though located in a Soviet occupied zone, was also divided resulting in the United States, Great Britain, and France ruling over West Berlin and the Soviet Union over East Berlin.",
+    "info2": "With each country having freedom on how to govern their zones, the differences between the East and the West were made very apparent. The clear contrast between the United States and the Soviet Union's ideology led to a battle of power and superiority, which would later become the Cold War. In 1948 the increasing tensions resulted in a full blown crisis in the city of Berlin.",
+    "info3": "In June, the Soviet Union took advantage of its geographical position to block any access to and from West Berlin. This prevented the arrival of food, medicine, fuel and many other essential resources to the people in West Berlin. This Cold War crisis threatened great repercussions if not handled correctly."
+  },
+
+  {
+    "id": 4,
+    "heading": "Youth Disarmament",
+    "image": "Youth_Disarmament.webp",
+    "heading2": "Producing safer, weapon-free spaces for children's development.",
+    "info1": "The control of the spread of weapons and armed forces is a concept that exists since the Middle ages with the intent to promote peace. A deficient system of disarmament can lead to highly weaponized military conflict such as World War II and increase the risk of an international conflict like the Cold War.",
+    "info2": "Disarmament ,a tool to prevent conflict and mitigate its impact, has been the responsibility of heads of states and the national foreign policy. Nonetheless, in recent years the impact of the youth in such topics has been acknowledged. The essential role of the younger generation in allowing for a truly successful disarmament policy was recognized by the United Nations General Assembly in the Resolution 74/64. ",
+    "info3": "As the largest generation in history, the youth have a critical role in raising awareness and developing new approaches to reduce threats from weapons. To achieve this it's essential to expose this generation to disarmament. This with the objective to maintain international peace and security. "
+  }
+]

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GMUN</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="head_container">
+        <img src="logo.jpeg" alt="Global MUN" style="height: 80px" />
+        <div class="head_2">
+          <div><a href="#hero">HOME</a></div>
+          <div><a href="#info">COMMITTEES</a></div>
+          <div><a href="#archives">ARCHIVES</a></div>
+          <div id="theme">
+            <input
+              type="button"
+              value="LIGHT"
+              id="th_btn"
+              id=""
+              onclick="theme()"
+            />
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section id="hero">
+      <span><img src="logo2.jpeg" /></span>
+      <span><img src="logo.jpeg" /> </span>
+    </section>
+
+    <section id="info">
+      <h1>COMMITTEES</h1>
+
+      <div class="box" id="box1" data-tilt data-tilt-axis="x">
+        <div id="img">
+          <h3 id="head_a"></h3>
+          <img src="AI.webp" alt="Artificial Intelligence" />
+
+    
+          <h4 id="head2_a"></h4>
+        </div>
+        <div class="contents">
+          <div id="contents1_a"></div>
+          <div id="contents2_a"></div>
+          <div id="contents3_a"></div>
+        </div>
+      </div>
+
+      <div class="box" id="box2" data-tilt data-tilt-axis="x">
+        <div id="img">
+          <h3 id="head_b"></h3>
+          <img src="Pandemic.webp" alt="Post-Pandemic Refugee Waves" />
+          <h4 id="head2_b"></h4>
+        </div>
+        <div class="contents">
+          <div id="contents1_b"></div>
+          <div id="contents2_b"></div>
+          <div id="contents3_b"></div>
+        </div>
+      </div>
+
+      <div class="box" id="box3" data-tilt data-tilt-axis="x">
+        <div id="img">
+          <h3 id="head_c"></h3>
+          <img
+            src="International_Trade.webp"
+            alt="Tariffs on International Trade"
+          />
+          <h4 id="head2_c"></h4>
+        </div>
+        <div class="contents">
+          <div id="contents1_c"></div>
+          <div id="contents2_c"></div>
+          <div id="contents3_c"></div>
+        </div>
+      </div>
+
+      <div class="box" id="box4" data-tilt data-tilt-axis="x">
+        <div id="img">
+          <h3 id="head_d"></h3>
+          <img src="Berlin_Blockade.webp" alt="The Berlin Blockade" />
+          <h4 id="head2_d"></h4>
+        </div>
+        <div class="contents">
+          <div id="contents1_d"></div>
+          <div id="contents2_d"></div>
+          <div id="contents3_d"></div>
+        </div>
+      </div>
+
+      <div class="box" id="box5" data-tilt data-tilt-axis="x">
+        <div id="img">
+          <h3 id="head_e"></h3>
+          <img src="Youth_Disarmament.webp" alt="Youth Disarmament" />
+          <h4 id="head2_e"></h4>
+        </div>
+        <div class="contents">
+          <div id="contents1_e"></div>
+          <div id="contents2_e"></div>
+          <div id="contents3_e"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="archives" id="archives">
+      <h1>ARCHIVES</h1>
+      <div class="archives">
+        <img src="archive_1.webp" alt="Archives" />
+        <img src="archive_2.webp" alt="Archives" />
+        <img src="archive_3.webp" alt="Archives" />
+        <img src="archive_4.webp" alt="Archives" />
+      </div>
+    </section>
+
+    <footer>
+      <a href="#hero">Back To Top</a>
+      <div class="footer">
+        <span>Global Model United Nations<br />for Communiqué</span>
+        <span>Created by:<br />Mahin Hussain<br />IIT KGP</span>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <!--  -->
+
+    <div class="box"></div>
+
+    <script type="text/javascript" src="vanilla-tilt.js"></script>
+    <script type="text/javascript">
+      VanillaTilt.init(document.querySelector(".box"), {
+        max: 5,
+        speed: 10,
+      });
+
+      VanillaTilt.init(document.querySelectorAll(".box"));
+    </script>
+  </body>
+</html>
